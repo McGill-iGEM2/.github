@@ -6,6 +6,7 @@ Currently, there are two ongoing tasks for the dry lab team: the NGS and the gRN
 There is also a Tutorials repository in development for members to learn how to use git and access Compute Canada.
 
 # Repository Structure
+```
 .
 ├── NGS
 │   └── README.md
@@ -13,3 +14,4 @@ There is also a Tutorials repository in development for members to learn how to 
     ├── Compute_Canada.md
     ├── README.md
     └── git.md
+```
